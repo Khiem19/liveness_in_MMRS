@@ -1,0 +1,78 @@
+
+No. 1:
+
+Finish Status:
+Process 1: Finish = False
+Process 2: Finish = False
+
+Positions of Robots in Their Paths:
+Process 1: Position in Path = 54 
+Process 2: Position in Path = 86 
+
+State: (8) (1) 
+==============================
+
+No. 2:
+
+Finish Status:
+Process 1: Finish = False
+Process 2: Finish = False
+
+Positions of Robots in Their Paths:
+Process 1: Position in Path = 54 
+Process 2: Position in Path = 76 
+
+State: (8) (2) 
+==============================
+
+No. 3:
+
+Finish Status:
+Process 1: Finish = False
+Process 2: Finish = False
+
+Positions of Robots in Their Paths:
+Process 1: Position in Path = 67 
+Process 2: Position in Path = 76 
+
+State: (12) (2) 
+==============================
+
+No. 4:
+
+Finish Status:
+Process 1: Finish = False
+Process 2: Finish = False
+
+Positions of Robots in Their Paths:
+Process 1: Position in Path = 67 
+Process 2: Position in Path = 63 
+
+State: (12) (6) 
+==============================
+
+No. 5:
+
+Finish Status:
+Process 1: Finish = True
+Process 2: Finish = False
+
+Positions of Robots in Their Paths:
+Process 1: Position in Path = 68 
+Process 2: Position in Path = 63 
+
+State: (13) (6) 
+==============================
+
+No. 6:
+
+Finish Status:
+Process 1: Finish = True
+Process 2: Finish = True
+
+Positions of Robots in Their Paths:
+Process 1: Position in Path = 68 
+Process 2: Position in Path = 61 
+
+State: (13) (8) 
+==============================
